@@ -1,4 +1,16 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/cajoterbraak/cajoterbraak.r-universe.dev
 	branch = HEAD
+[submodule "PRC"]
+	path = PRC
+	url = https://github.com/CajoterBraak/PRC
+[submodule "TraitEnvMLMWA"]
+	path = TraitEnvMLMWA
+	url = https://github.com/CajoterBraak/TraitEnvMLMWA
+[submodule "Gendis2unmix"]
+	path = Gendis2unmix
+	url = https://github.com/CajoterBraak/Gendis2unmix
+[submodule "demc2"]
+	path = demc2
+	url = https://github.com/CajoterBraak/demc2
