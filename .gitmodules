@@ -13,7 +13,7 @@
 	url = https://github.com/CajoterBraak/TraitEnvMLMWA
 [submodule "dcCA"]
 	path = dcCA
-	url = https://github.com/CajoterBraak/dcCA
+	url = https://github.com/CajoterBraak/douconca
 [submodule "demc2"]
 	path = demc2
 	url = https://github.com/CajoterBraak/demc2
