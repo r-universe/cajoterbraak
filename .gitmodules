@@ -11,9 +11,9 @@
 [submodule "TraitEnvMLMWA"]
 	path = TraitEnvMLMWA
 	url = https://github.com/CajoterBraak/TraitEnvMLMWA
-[submodule "dcCA"]
-	path = dcCA
-	url = https://github.com/CajoterBraak/douconca
 [submodule "demc2"]
 	path = demc2
 	url = https://github.com/CajoterBraak/demc2
+[submodule "douconca"]
+	path = douconca
+	url = https://github.com/CajoterBraak/douconca
